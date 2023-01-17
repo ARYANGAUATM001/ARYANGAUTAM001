@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARYANGAUTAM001
+- 👋 Hi, I’m @ARYANGAUTAM001.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently trying my hands on Machine Learning and NLP.
 - 💞️ I’m studying in NIT Hamirpur.
