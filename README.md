@@ -1,5 +1,5 @@
  👋 Hi, I’m @ARYANGAUTAM001.
- 💞️ I’m a student @NIT Hamirpur.
+ 💞️ I’m a student @NIT Hamirpur. 
  👀 I’m interested in Data Science and Software Development.
 
 <!---
