@@ -1,6 +1,6 @@
  👋 Hi, I’m @ARYANGAUTAM001.
  💞️ I’m a student @NIT Hamirpur. 
- 👀 I’m interested in Data Science and Software Development.
+ 👀 I’m interested in Data Science.
 
 <!---
 ARYANGAUTAM001/ARYANGAUTAM001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
