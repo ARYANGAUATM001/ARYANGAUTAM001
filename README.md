@@ -1,5 +1,5 @@
  👋 Hi, I’m @ARYANGAUTAM001.
- 💞️ I graduated from NIT Hamirpur recently. 
+ 💞️ I graduated from NIT Hamirpur . 
  👀 I’m an aspiring Data Scientist.
  
 
